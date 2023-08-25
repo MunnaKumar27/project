@@ -1,5 +1,9 @@
 # face-attendance-system
 
+python -m venv venv
+.\venv\Scripts\activate
+
+
 Face attendance system using face recognition with Python !
 
 ## Face attendance software
